@@ -1,8 +1,13 @@
 ## Hi there 👋  
 We are just a bunch of people who wants to port every game into godot with multi-platform support.  
-We are noob on godot but bad on c# so not using unity.  
+We are noob on godot but very bad on c# so using godot instead of unity.  
 We are currectly working on baldi's basics ports.  
-If you think we infringed upon your rights, let us know and we will delete those stuff.
+If you think we infringed upon your rights, let us know and we will delete those stuff.  
+
+## 你好啊 👋  
+我们只是一群闲着没事干想把各种游戏移植到godot引擎并添加多平台支持的人。  
+我们在制作godot游戏方面其实算是菜鸟但不会c#，所以才选择godot引擎而不是unity。  
+我们目前正在制作巴迪的基础教育的移植，如果你是游戏作者并且认为我们侵犯了你们的权益，请联系我们，我们将删除侵权的一切物品。  
 <!--
 
 **Here are some ideas to get you started:**
